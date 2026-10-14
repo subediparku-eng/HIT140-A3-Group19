@@ -1,0 +1,9 @@
+Variable,VIF
+knockout_stage,1.685
+team_travel_km,1.513
+prior_matches_same_venue,1.316
+team_rest_days_capped14,1.256
+team_cum_extra_time_min,1.196
+cross_border_travel,1.136
+local_kickoff_hour,1.111
+fifa_points_gap,1.024

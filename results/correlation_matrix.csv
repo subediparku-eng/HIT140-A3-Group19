@@ -1,0 +1,10 @@
+,fifa_points_gap,cross_border_travel,team_rest_days_capped14,team_travel_km,local_kickoff_hour,knockout_stage,prior_matches_same_venue,team_cum_extra_time_min,team_goals
+fifa_points_gap,1.0,0.001,-0.002,-0.123,0.0,-0.0,0.006,-0.023,0.496
+cross_border_travel,0.001,1.0,-0.012,0.295,0.108,0.055,-0.148,-0.057,-0.025
+team_rest_days_capped14,-0.002,-0.012,1.0,-0.215,0.195,-0.396,-0.198,-0.234,0.01
+team_travel_km,-0.123,0.295,-0.215,1.0,-0.141,0.37,-0.23,0.031,-0.135
+local_kickoff_hour,0.0,0.108,0.195,-0.141,1.0,-0.208,0.062,-0.097,-0.021
+knockout_stage,-0.0,0.055,-0.396,0.37,-0.208,1.0,0.276,0.369,-0.013
+prior_matches_same_venue,0.006,-0.148,-0.198,-0.23,0.062,0.276,1.0,0.184,0.095
+team_cum_extra_time_min,-0.023,-0.057,-0.234,0.031,-0.097,0.369,0.184,1.0,0.068
+team_goals,0.496,-0.025,0.01,-0.135,-0.021,-0.013,0.095,0.068,1.0

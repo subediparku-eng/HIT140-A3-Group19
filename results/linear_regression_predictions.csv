@@ -1,0 +1,43 @@
+match_id,team,opponent,team_goals,predicted_team_goals,residual
+400021458,USA,Paraguay,4,1.782,2.218
+400021458,Paraguay,USA,1,0.84,0.16
+400021470,Netherlands,Japan,2,1.622,0.378
+400021470,Japan,Netherlands,2,1.238,0.762
+400021504,Uzbekistan,Colombia,1,0.786,0.214
+400021504,Colombia,Uzbekistan,3,2.051,0.949
+400021440,Czechia,South Africa,1,1.642,-0.642
+400021440,South Africa,Czechia,1,1.325,-0.325
+400021450,Canada,Qatar,6,1.655,4.345
+400021450,Qatar,Canada,0,1.147,-1.147
+400021487,Uruguay,Cabo Verde,2,2.818,-0.818
+400021487,Cabo Verde,Uruguay,2,0.422,1.578
+400021452,Morocco,Haiti,4,2.653,1.347
+400021452,Haiti,Morocco,2,-0.047,2.047
+400021444,Czechia,Mexico,0,0.898,-0.898
+400021444,Mexico,Czechia,3,2.326,0.674
+400021466,Ecuador,Germany,2,0.917,1.083
+400021466,Germany,Ecuador,1,1.721,-0.721
+400021473,Tunisia,Netherlands,1,0.606,0.394
+400021473,Netherlands,Tunisia,3,2.087,0.913
+400021471,Japan,Sweden,1,2.256,-1.256
+400021471,Sweden,Japan,1,0.835,0.165
+400021493,Senegal,Iraq,5,2.107,2.893
+400021493,Iraq,Senegal,0,0.724,-0.724
+400021485,Cabo Verde,Saudi Arabia,0,1.139,-1.139
+400021485,Saudi Arabia,Cabo Verde,0,1.425,-1.425
+400021505,Colombia,Portugal,0,1.196,-1.196
+400021505,Portugal,Colombia,0,1.444,-1.444
+400021520,Mexico,Ecuador,2,2.458,-0.458
+400021520,Ecuador,Mexico,0,1.081,-1.081
+400021517,Colombia,Ghana,1,2.234,-1.234
+400021517,Ghana,Colombia,0,0.175,-0.175
+400021533,Paraguay,France,0,0.385,-0.385
+400021533,France,Paraguay,1,2.756,-1.756
+400021531,Mexico,England,2,2.3,-0.3
+400021531,England,Mexico,3,1.719,1.281
+400021528,Argentina,Egypt,3,2.432,0.568
+400021528,Egypt,Argentina,2,0.602,1.398
+400021535,Switzerland,Colombia,0,2.131,-2.131
+400021535,Colombia,Switzerland,0,1.532,-1.532
+400021538,Spain,Belgium,2,2.193,-0.193
+400021538,Belgium,Spain,1,1.659,-0.659

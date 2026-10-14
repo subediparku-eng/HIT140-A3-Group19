@@ -1,0 +1,5 @@
+Model,RMSE,MAE,R-squared
+Lasso Regression,1.311,1.034,0.183
+Ridge Regression,1.33,1.046,0.16
+Linear Regression,1.339,1.072,0.148
+Baseline Mean,1.453,1.163,-0.003

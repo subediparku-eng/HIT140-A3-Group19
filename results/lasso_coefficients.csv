@@ -1,0 +1,9 @@
+Variable,Standardised coefficient,Selected
+fifa_points_gap,0.5793,True
+cross_border_travel,0.0,False
+team_rest_days_capped14,-0.0,False
+team_travel_km,-0.0,False
+local_kickoff_hour,-0.0,False
+knockout_stage,0.0,False
+prior_matches_same_venue,0.0859,True
+team_cum_extra_time_min,0.0,False
