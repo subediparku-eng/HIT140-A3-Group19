@@ -1,0 +1,6 @@
+model,cv_RMSE,sd_over_folds
+OLS (all 8),1.6791,0.2738
+Ridge + winsorise (all 8) [final],1.5895,0.2541
+In-fold top-1 predictor + OLS,1.5396,0.2751
+In-fold top-2 predictors + OLS,1.5626,0.2707
+In-fold top-3 predictors + OLS,1.5822,0.2713

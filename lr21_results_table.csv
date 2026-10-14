@@ -1,0 +1,4 @@
+model,holdout_RMSE,holdout_MAE,holdout_R2,cv_RMSE,cv_MAE,cv_R2
+OLS,1.785,1.315,0.422,1.659,1.305,0.238
+Ridge,1.756,1.337,0.441,1.621,1.292,0.288
+Lasso,1.871,1.36,0.365,1.611,1.285,0.3

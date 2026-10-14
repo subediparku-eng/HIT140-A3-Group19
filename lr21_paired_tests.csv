@@ -1,0 +1,5 @@
+model_A,model_B,mean_RMSE_A_minus_B,t,p_value,A_significantly_better
+Ridge + winsorise (all 8) [final],OLS (all 8),-0.0895,-1.0994,0.277,False
+In-fold top-1 predictor + OLS,OLS (all 8),-0.1395,-1.2396,0.221,False
+In-fold top-1 predictor + OLS,Ridge + winsorise (all 8) [final],-0.05,-0.707,0.4829,False
+In-fold top-2 predictors + OLS,Ridge + winsorise (all 8) [final],-0.0269,-0.4332,0.6668,False

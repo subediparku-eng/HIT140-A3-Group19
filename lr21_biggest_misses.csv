@@ -1,0 +1,11 @@
+team_a,team_b,actual_GD,predicted_GD,error
+Canada,Qatar,6,1.68,4.32
+Sweden,Tunisia,4,-0.22,4.22
+Germany,Curaçao,6,2.13,3.87
+Portugal,Uzbekistan,5,1.41,3.59
+Senegal,Iraq,5,1.53,3.47
+Tunisia,Japan,-4,-0.64,-3.36
+IR Iran,New Zealand,0,2.69,-2.69
+Scotland,Brazil,-3,-0.38,-2.62
+Iraq,Norway,-3,-0.54,-2.46
+England,Ghana,0,2.42,-2.42

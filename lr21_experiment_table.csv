@@ -1,0 +1,20 @@
+group,experiment,cv_RMSE,cv_RMSE_sd_over_repeats,cv_MAE,cv_R2,RMSE_gain_vs_OLS,better_than_OLS_in_repeats
+Subset,OLS: FIFA points only,1.5396,0.0163,1.217,0.3568,0.1395,10/10
+Subset,OLS: FIFA + pre-WC points/game,1.5626,0.0296,1.2389,0.3352,0.1165,10/10
+Subset,OLS: FIFA + PPG + clean-sheet rate,1.5822,0.0331,1.244,0.3208,0.0969,10/10
+Transform,Ridge + winsorise 2.5%,1.5895,0.0431,1.2638,0.3164,0.0895,10/10
+Transform,Ridge + winsorise + signed-log travel,1.5994,0.042,1.2768,0.3086,0.0797,10/10
+Transform,OLS + winsorise 2.5%,1.6132,0.0632,1.2664,0.2817,0.0659,10/10
+Benchmark,Random forest (non-linear),1.6151,0.0344,1.2622,0.2839,0.064,7/10
+Transform,OLS + winsorise + signed-log travel,1.6235,0.0635,1.2823,0.273,0.0555,9/10
+Linear,Lasso,1.629,0.0649,1.296,0.277,0.05,10/10
+Linear,Ridge,1.6326,0.0535,1.2996,0.2717,0.0465,10/10
+Structure,Ridge no intercept (antisymmetry),1.6348,0.0555,1.2843,0.2687,0.0443,10/10
+Linear,ElasticNet,1.6367,0.0661,1.3004,0.2702,0.0423,10/10
+Transform,Ridge + signed-log travel,1.6375,0.0544,1.3065,0.2683,0.0416,10/10
+Benchmark,Gradient boosting (non-linear),1.6726,0.0392,1.3073,0.219,0.0065,6/10
+Structure,OLS no intercept (antisymmetry),1.6789,0.0847,1.3109,0.2052,0.0002,5/10
+Linear,OLS,1.6791,0.085,1.3171,0.2058,0.0,0/10
+Transform,OLS + signed-log travel,1.6862,0.0871,1.3286,0.1995,-0.0071,2/10
+Linear,Huber (robust),1.702,0.0918,1.3599,0.1873,-0.023,0/10
+Baseline,Mean-only (no predictors),2.0114,0.0253,1.5913,-0.0721,-0.3323,0/10
